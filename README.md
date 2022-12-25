@@ -25,13 +25,17 @@ CS:GO ESP with pattern scanned offsets and ray casting visibility check written 
  ```sh
  git clone https://github.com/tomaszjagielka/LerawinInternal.git
  ```
-2. Build the project using Visual Studio or C++ compiler of your choice.
+2. Build the project using Visual Studio or a C++ compiler of your choice.
+
+## Usage
+1. Launch CS:GO.
+2. Inject the DLL into the process using an injector of your choice.
 
 ## How it works?
 1. It uses trampoline hooking to hook to the CS:GO process.
 2. Then automatically updates offsets using pattern scanning.
 3. Next, it checks if player is in the enemy team and casts rays to check if he's seen.
-3. Finally, draws ESP on the screen using Direct3D 9.
+4. Finally, draws ESP on the screen using Direct3D 9.
 
 ## Acknowledgements
 * GuidedHacking – knowledge and code snippets
