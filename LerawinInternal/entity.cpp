@@ -1,9 +1,9 @@
 #include <Windows.h>
 
-#include "VMatrix.h"
-#include "Studio.h"
-#include "IClientRenderable.h"
-#include "csgo-Vector.h"
+#include "csgo-sdk/VMatrix.h"
+#include "csgo-sdk/Studio.h"
+#include "csgo-sdk/IClientRenderable.h"
+#include "csgo-sdk/csgo-Vector.h"
 
 #include "variables.h"
 #include "math.h"

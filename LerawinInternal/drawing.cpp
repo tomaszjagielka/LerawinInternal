@@ -4,7 +4,7 @@
 #pragma comment(lib, "d3d9.lib")
 #pragma comment(lib, "d3dx9.lib")
 
-#include "vector.h"
+#include "csgo-sdk/vector.h"
 
 #include "directx.h"
 #include "math.h"

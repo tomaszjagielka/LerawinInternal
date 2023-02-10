@@ -1,7 +1,7 @@
 #include "variables.h"
 #include "directx.h"
 #include "math.h"
-#include "vector.h"
+#include "csgo-sdk/vector.h"
 
 using namespace Vars;
 

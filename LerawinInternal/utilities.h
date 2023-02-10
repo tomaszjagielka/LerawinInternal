@@ -2,8 +2,8 @@
 #include <Windows.h>
 #include <Psapi.h>
 
-#include "dt_recv.h"
-#include "client_class.h"
+#include "csgo-sdk/dt_recv.h"
+#include "csgo-sdk/client_class.h"
 
 #include "variables.h"
 #include "entity.h"

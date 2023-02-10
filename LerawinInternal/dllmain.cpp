@@ -11,7 +11,7 @@
 #include "gamehooks.h"
 #include "variables.h"
 #include "entity.h"
-#include "esp.h"
+#include "features/esp.h"
 
 #define DEBUG_CONSOLE 0
 

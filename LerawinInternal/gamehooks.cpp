@@ -1,7 +1,7 @@
 #include <Windows.h>
 
 #include "directx.h"
-#include "esp.h"
+#include "features/esp.h"
 #include "gamehooks.h"
 
 // Hook function (hk prefix = hook).

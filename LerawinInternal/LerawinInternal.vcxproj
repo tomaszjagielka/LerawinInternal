@@ -145,31 +145,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="cdll_int.h" />
-    <ClInclude Include="client_class.h" />
     <ClInclude Include="config.h" />
-    <ClInclude Include="csgo-Vector.h" />
+    <ClInclude Include="csgo-sdk\cdll_int.h" />
+    <ClInclude Include="csgo-sdk\client_class.h" />
+    <ClInclude Include="csgo-sdk\csgo-Vector.h" />
+    <ClInclude Include="csgo-sdk\dt_recv.h" />
+    <ClInclude Include="csgo-sdk\IClientEntityList.h" />
+    <ClInclude Include="csgo-sdk\IClientRenderable.h" />
+    <ClInclude Include="csgo-sdk\IVModelInfo.h" />
+    <ClInclude Include="csgo-sdk\QAngle.h" />
+    <ClInclude Include="csgo-sdk\Studio.h" />
+    <ClInclude Include="csgo-sdk\traceline.h" />
+    <ClInclude Include="csgo-sdk\vector.h" />
+    <ClInclude Include="csgo-sdk\VMatrix.h" />
+    <ClInclude Include="features\esp.h" />
     <ClInclude Include="iterators.h" />
-    <ClInclude Include="vector.h" />
-    <ClInclude Include="traceline.h" />
     <ClInclude Include="drawing.h" />
-    <ClInclude Include="dt_recv.h" />
     <ClInclude Include="directx.h" />
     <ClInclude Include="entity.h" />
     <ClInclude Include="entity-old.h" />
-    <ClInclude Include="esp.h" />
     <ClInclude Include="gamehooks.h" />
     <ClInclude Include="tramphook.h" />
-    <ClInclude Include="IClientEntityList.h" />
-    <ClInclude Include="IClientRenderable.h" />
     <ClInclude Include="includes.h" />
-    <ClInclude Include="IVModelInfo.h" />
-    <ClInclude Include="QAngle.h" />
-    <ClInclude Include="Studio.h" />
     <ClInclude Include="utilities.h" />
     <ClInclude Include="variables.h" />
     <ClInclude Include="math.h" />
-    <ClInclude Include="VMatrix.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />

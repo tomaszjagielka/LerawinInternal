@@ -7,7 +7,7 @@
 #pragma comment(lib, "d3dx9.lib")
 
 #include "directx.h"
-#include "esp.h"
+#include "features/esp.h"
 #include "drawing.h"
 #include "variables.h"
 #include "utilities.h"

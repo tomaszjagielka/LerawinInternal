@@ -1,10 +1,10 @@
 #pragma once
 
 #include "math.h"
-#include "csgo-Vector.h"
+#include "csgo-sdk/csgo-Vector.h"
 
-#include "vector.h"
-#include "VMatrix.h"
+#include "csgo-sdk/vector.h"
+#include "csgo-sdk/VMatrix.h"
 
 // Automatically pads remaining bytes.
 //#define STR_MERGE_IMPL(a, b) a##b

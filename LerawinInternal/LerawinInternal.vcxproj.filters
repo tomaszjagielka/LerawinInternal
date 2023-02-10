@@ -33,53 +33,14 @@
     <ClInclude Include="gamehooks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="esp.h">
-      <Filter>Header Files\features</Filter>
-    </ClInclude>
-    <ClInclude Include="IClientEntityList.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="dt_recv.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="client_class.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="cdll_int.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
     <ClInclude Include="entity.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="entity-old.h">
       <Filter>Recycle bin</Filter>
     </ClInclude>
-    <ClInclude Include="VMatrix.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="csgo-Vector.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="QAngle.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="Studio.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="IClientRenderable.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="IVModelInfo.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
-    <ClInclude Include="traceline.h">
-      <Filter>Header Files\csgo-sdk</Filter>
-    </ClInclude>
     <ClInclude Include="math.h">
       <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="vector.h">
-      <Filter>Header Files\csgo-sdk</Filter>
     </ClInclude>
     <ClInclude Include="variables.h">
       <Filter>Header Files</Filter>
@@ -101,6 +62,45 @@
     </ClInclude>
     <ClInclude Include="iterators.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\cdll_int.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\client_class.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\csgo-Vector.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\dt_recv.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\IClientEntityList.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\IClientRenderable.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\IVModelInfo.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\QAngle.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\Studio.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\traceline.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\vector.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo-sdk\VMatrix.h">
+      <Filter>Header Files\csgo-sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="features\esp.h">
+      <Filter>Header Files\features</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -2,10 +2,10 @@
 
 #include <Windows.h>
 
-#include "cdll_int.h"
-#include "client_class.h"
-#include "IClientEntityList.h"
-#include "traceline.h"
+#include "csgo-sdk/cdll_int.h"
+#include "csgo-sdk/client_class.h"
+#include "csgo-sdk/IClientEntityList.h"
+#include "csgo-sdk/traceline.h"
 
 #include "utilities.h"
 #include "variables.h"

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "vector.h"
+#include "csgo-sdk/vector.h"
 
 ID3DXLine *LineL;
 
