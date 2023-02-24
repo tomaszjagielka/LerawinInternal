@@ -6,11 +6,11 @@
 #pragma comment(lib, "d3d9.lib")
 #pragma comment(lib, "d3dx9.lib")
 
-#include "directx.h"
-#include "features/esp.h"
-#include "drawing.h"
-#include "variables.h"
-#include "utilities.h"
+#include "../directx.h"
+#include "../features/esp.h"
+#include "../drawing.h"
+#include "../variables.h"
+#include "../utilities.h"
 
 void Crosshair() {
 	DrawFilledRect(window_width / 2 - 2, window_height / 2 - 2, 4, 4, D3DCOLOR_ARGB(255, 255, 255, 255));

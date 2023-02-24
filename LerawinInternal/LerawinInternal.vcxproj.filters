@@ -113,9 +113,6 @@
     <ClCompile Include="gamehooks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="esp.cpp">
-      <Filter>Source Files\features</Filter>
-    </ClCompile>
     <ClCompile Include="vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -133,6 +130,9 @@
     </ClCompile>
     <ClCompile Include="directx.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="features\esp.cpp">
+      <Filter>Source Files\features</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

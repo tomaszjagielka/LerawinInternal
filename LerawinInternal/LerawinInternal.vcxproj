@@ -176,7 +176,7 @@
     <ClCompile Include="drawing.cpp" />
     <ClCompile Include="directx.cpp" />
     <ClCompile Include="entity.cpp" />
-    <ClCompile Include="esp.cpp" />
+    <ClCompile Include="features\esp.cpp" />
     <ClCompile Include="gamehooks.cpp" />
     <ClCompile Include="tramphook.cpp" />
     <ClCompile Include="utilities.cpp" />
